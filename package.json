@@ -1,0 +1,14 @@
+{
+    "name": "dxw-table",
+    "version": "1.0.11",
+    "description": "element表格虚拟滚动。",
+    "main": "src/index.js",
+    "keywords": [
+        "element",
+        "表格",
+        "多级表头"
+    ],
+    "scripts": {},
+    "author": "divcssjs",
+    "license": "ISC"
+}
